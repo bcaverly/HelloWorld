@@ -15,6 +15,7 @@ int Search(PatientAccount Patients[], int num);
 
 void Sort(PatientAccount Patients[], int num);
 
+// main()
 int main() {
 	int num_patients;
 	//ask for number of patients
