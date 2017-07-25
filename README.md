@@ -1,3 +1,3 @@
 # HelloWorld
 
-This is s really stupidly simple and useless readme file.
+This is a really stupidly simple and useless readme file.
